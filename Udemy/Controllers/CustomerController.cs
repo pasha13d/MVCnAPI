@@ -67,9 +67,9 @@ namespace Udemy.Controllers
         // GET: Customer
         public ActionResult Index()
         {
-            var customers = _context.Customers.Include(c => c.MembershipType).ToList();
+            //var customers = _context.Customers.Include(c => c.MembershipType).ToList();
             //var customers = GetCustomers();
-            return View(customers);
+            return View();
         }
         public ActionResult Details(int id)
         {
