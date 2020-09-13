@@ -77,4 +77,6 @@ C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\bin\System.Web.
 C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\bin\System.Web.Http.WebHost.xml
 C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\bin\AutoMapper.dll
 C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\bin\AutoMapper.xml
+C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy.Migrations.SeedUsers.resources
 C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy.csprojResolveAssemblyReference.cache
+C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy.Migrations.AddDrivingLicenseToAppUser.resources
