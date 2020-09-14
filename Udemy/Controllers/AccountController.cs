@@ -156,7 +156,8 @@ namespace Udemy.Controllers
                 {
                     UserName = model.Email, 
                     Email = model.Email,
-                    DrivingLicense = model.DrivingLicense
+                    DrivingLicense = model.DrivingLicense,
+                    PhoneNo = model.PhoneNo
                 };
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)

@@ -80,3 +80,4 @@ C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\bin\AutoMapper.
 C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy.Migrations.SeedUsers.resources
 C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy.csprojResolveAssemblyReference.cache
 C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy.Migrations.AddDrivingLicenseToAppUser.resources
+C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy.Migrations.AddPhoneNoToAppUser.resources
