@@ -81,3 +81,8 @@ C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy
 C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy.csprojResolveAssemblyReference.cache
 C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy.Migrations.AddDrivingLicenseToAppUser.resources
 C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\obj\Debug\Udemy.Migrations.AddPhoneNoToAppUser.resources
+C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\bin\Glimpse.Ado.dll
+C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\bin\Glimpse.AspNet.dll
+C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\bin\Glimpse.Core.dll
+C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\bin\Glimpse.EF6.dll
+C:\Users\mahab\documents\visual studio 2013\Projects\Udemy\Udemy\bin\Glimpse.Mvc5.dll

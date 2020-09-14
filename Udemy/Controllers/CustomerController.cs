@@ -38,6 +38,7 @@ namespace Udemy.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = RoleName.CanManageMovies)]
         public ActionResult Save( Customer customer)
         {
             if (!ModelState.IsValid)
@@ -87,6 +88,7 @@ namespace Udemy.Controllers
             return View(customer);
         }
 
+        [Authorize(Roles = RoleName.CanManageMovies)]
         public ActionResult Edit( int id)
         {
             var customer = _context.Customers.SingleOrDefault(c => c.Id == id);
